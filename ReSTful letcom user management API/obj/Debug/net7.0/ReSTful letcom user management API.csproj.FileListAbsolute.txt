@@ -1,0 +1,92 @@
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\appsettings.json
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.exe
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.deps.json
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.runtimeconfig.json
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.pdb
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\DnsClient.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Snappier.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.csproj.AssemblyReference.cache
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.AssemblyInfoInputs.cache
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.AssemblyInfo.cs
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.csproj.CoreCompileInputs.cache
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets\msbuild.ReSTful letcom user management API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets\msbuild.build.ReSTful letcom user management API.props
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ReSTful letcom user management API.props
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ReSTful letcom user management API.props
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\scopedcss\bundle\ReSTful letcom user management API.styles.css
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.csproj.CopyComplete
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\refint\ReSTful letcom user management API.dll
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.pdb
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.genruntimeconfig.cache
+C:\Users\kalea\source\repos\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ref\ReSTful letcom user management API.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\appsettings.json
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.exe
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.deps.json
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.runtimeconfig.json
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ReSTful letcom user management API.pdb
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\DnsClient.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Snappier.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.csproj.AssemblyReference.cache
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.AssemblyInfoInputs.cache
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.AssemblyInfo.cs
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.csproj.CoreCompileInputs.cache
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets\msbuild.ReSTful letcom user management API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets\msbuild.build.ReSTful letcom user management API.props
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ReSTful letcom user management API.props
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ReSTful letcom user management API.props
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\scopedcss\bundle\ReSTful letcom user management API.styles.css
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.csproj.CopyComplete
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\refint\ReSTful letcom user management API.dll
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.pdb
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ReSTful letcom user management API.genruntimeconfig.cache
+C:\Users\munir\Desktop\ReSTful letcom user management API\ReSTful letcom user management API\obj\Debug\net7.0\ref\ReSTful letcom user management API.dll

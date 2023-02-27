@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ReSTful letcom user management API.props" />
+</Project>
